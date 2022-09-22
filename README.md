@@ -1,6 +1,7 @@
 Hi, I’m a data engineer (and an artist in my spare time 🌈)  
 
 I have no idea what I’m doing, I'm just following youtube tutorials 😵  
+
 ![](/img/ed_cowboy-bebop.gif)
 
 I like cats.  
